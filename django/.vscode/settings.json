@@ -22,8 +22,8 @@
   },
   "workbench.colorCustomizations": {
     "[One Dark Pro]": {
-        "titleBar.activeBackground": "#d321bbcc",
-        "titleBar.activeForeground":"#ffffff",
-    },
+      "titleBar.activeBackground": "#d321bbcc",
+      "titleBar.activeForeground": "#ffffff"
+    }
   },
 }
